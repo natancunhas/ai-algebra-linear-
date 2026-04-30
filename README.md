@@ -82,7 +82,7 @@ Autor
 
 - Natan de Souza Cunha
 - Engenharia de Software | Pesquisador
-- @natancunhadev
+- @natancunhas
 
 - Copyright - Todos os direitos reservados. 2026
 - Estudo baseado em evidências. 
